@@ -1,5 +1,10 @@
 # ¿Qué son los contenedores?
 
+:::homework{id="01.01" title="Ver videos de Sistemas Operativos y entenderlos" due="2026-02-12" points="20"}
+Hacer el curso de Docker basico de datacamp y subir el certificado pr github en pull request y agregar la direccion del pull request y el file en github (los links) en canvas.  
+https://app.datacamp.com/learn/courses/introduction-to-docker 
+:::
+
 ## La analogía del contenedor de carga
 
 Antes de los contenedores de carga estandarizados, transportar mercancía era un caos. Cada producto tenía su propia forma de empaquetarse, cada barco cargaba de manera distinta, y transferir carga entre barco, tren y camión requería desempacar y reempacar todo.
