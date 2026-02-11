@@ -1,6 +1,6 @@
 # ¿Qué son los contenedores?
 
-:::homework{id="01.01" title="Ver videos de Sistemas Operativos y entenderlos" due="2026-02-12" points="20"}
+:::homework{id="01.01" title="Certificado de Docker basico" due="2026-02-12" points="20"}
 Hacer el curso de Docker basico de datacamp y subir el certificado pr github en pull request y agregar la direccion del pull request y el file en github (los links) en canvas.  
 https://app.datacamp.com/learn/courses/introduction-to-docker 
 :::
